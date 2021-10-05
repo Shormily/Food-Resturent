@@ -1,0 +1,11 @@
+.image {
+  background-image: url(../Component/Images/img.png);
+  height: 500px;
+  width: 1000px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 80px;
+  background-color: rgb(247, 241, 232);
+
+  padding: auto;
+}

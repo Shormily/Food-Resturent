@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Franch_food",
+    "img": "https://www.expatica.com/app/uploads/sites/5/2020/03/Boeuf-bourguignon-1920x1080.jpg",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Sanduce",
+    "img": "https://www.expatica.com/app/uploads/sites/5/2016/04/French-food-for-kids-1920x1080.jpg",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "name": "Potato_Pies",
+    "img": "https://i.pinimg.com/736x/99/17/46/9917463708179553006af2da6963cafa--baby-recipes-toddler-recipes.jpg",
+    "price": 350
+  },
+  {
+    "id": 4,
+    "name": "Fread_Rice",
+    "img": "https://i.pinimg.com/736x/99/17/46/9917463708179553006af2da6963cafa--baby-recipes-toddler-recipes.jpg",
+    "price": 450
+  },
+  {
+    "id": 5,
+    "name": "Fread_Chiken",
+    "img": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e585ec42f47dea9d3587dd735a96fb26.jpg",
+    "price": 300
+  },
+  {
+    "id": 6,
+    "name": "Shakey_pizza",
+    "img": "https://pbs.twimg.com/media/CWIuA5zWUAAGWty.png",
+    "price": 350
+  },
+  {
+    "id": 7,
+    "name": "Lacchi",
+    "img": "https://i.ytimg.com/vi/aK0z97Z_Uxk/maxresdefault.jpg",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "name": "Milk_Shake",
+    "img": "https://media.istockphoto.com/photos/milkshake-trio-picture-id172192393?k=20&m=172192393&s=612x612&w=0&h=dhTrLSSECEurcCAkwRksdlj9C2EM64liK0nCJvF0CWY=",
+    "price": 500
+  },
+  {
+    "id": 9,
+    "name": "Kabab",
+    "img": "https://hamariweb.com/recipes/images/recipeimages/6914.jpg",
+    "price": 250
+  },
+  {
+    "id": 10,
+    "name": "Biriyani",
+    "img": "https://www.winstore.pk/wp-content/uploads/2021/04/Biryani-Express-1.jpg",
+    "price": 150
+  },
+  {
+    "id": 11,
+    "name": "Salad",
+    "img": "https://sunkissedkitchen.com/wp-content/uploads/2020/03/dragon-fruit-salad-RC.jpg",
+    "price": 250
+  },
+  {
+    "id": 12,
+    "name": "Food_salad",
+    "img": "https://www.inspiredtaste.net/wp-content/uploads/2013/06/Fruit-Salad-Recipe-2-1200.jpg",
+    "price": 150
+  },
+  {
+    "id": 13,
+    "name": "Rost_the_Shrimp",
+    "img": "https://media.cntraveler.com/photos/5f63b787978ff785b25015e7/master/w_4202,h_2796,c_limit/Schezwan%20Prawns-2A4D9JC.jpg",
+    "price": 300
+  },
+  {
+    "id": 14,
+    "name": "Modak",
+    "img": "https://data.chinatravel.com/images/mobile-first/chinese-food/steam-bun.jpg",
+    "price": 200
+  },
+  {
+    "id": 15,
+    "name": "Noodles",
+    "img": "https://c.ndtvimg.com/2020-04/nbkl715o_noodles_625x300_17_April_20.jpg",
+    "price": 150
+  }
+]

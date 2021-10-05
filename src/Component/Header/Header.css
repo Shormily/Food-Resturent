@@ -1,0 +1,17 @@
+.Design {
+  background-image: linear-gradient(
+    to right,
+    rgb(213, 224, 61),
+    rgb(154, 236, 59)
+  );
+  padding: 5px;
+}
+
+.gap {
+  margin-top: 10px;
+  margin-left: 17px;
+}
+
+.margin {
+  margin: left;
+}
